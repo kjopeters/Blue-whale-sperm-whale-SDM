@@ -1,0 +1,10 @@
+# Blue-whale-sperm-whale-SDM
+Data and code accompanying the paper 
+‘On the rise: Climate change in New Zealand will cause sperm and blue whales to seek higher latitudes’ in Ecological Indicators.
+ 
+Citation: Peters KJ, Stockin KA, Saltré F (2022). On the rise: Climate change in New Zealand will cause sperm and blue whales to seek higher latitudes. Ecological Indicators 142: 109235
+ 
+Abstract: Climate impacts affect marine ecosystems worldwide with island nations such as New Zealand being extremely vulnerable because of their socio-economic and cultural dependence on the marine and costal environment. Cetaceans are ideal indicator species of ecosystem change and ocean health given their extended life span and cosmopolitan distribution, but limited data availability prevents anticipating change in distribution under future climate changes. We projected the range shifts of a key odontocete and mysticete species (Physeter macrocephalus and Balaenoptera musculus) in 2100 relative to present day in New Zealand waters, using an ensemble modelling approach, under three climate change scenarios of different severity.
+The results show a latitudinal shift in suitable habitat for both whale species, increasing in magnitude with severity of sea surface temperature warming. The most severe climate change scenario tested generated 61% and 42% loss and decrease of currently suitable habitat for sperm and blue whales, respectively, mostly in New Zealand’s northern waters. These predicted changes will have a strong impact on the ecosystem functioning and services in New Zealand’s northern waters but also in coastal areas (critical for the species’ foraging and survival). Not only do these simulated range shifts help to identify future potential climate refugia to mitigate a global warming, they also generate a range of socioeconomic consequences for island nations relying on wildlife tourism, industry, and environmental protection.
+ 
+Available open-access at https://doi.org/10.1016/j.ecolind.2022.109235
